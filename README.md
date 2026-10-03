@@ -1,4 +1,4 @@
-# Parkinsons Disease Detection using Parkinsons Spiral Drawing
+# Parkinsons Disease Detection using Spiral Drawing
 The project aims at predicting whether a person is suffering from Parkinson's Disease or not using Parkinson's Spiral Drawing test.
 Prediction is made using a trained Convolutional Neural Network (CNN) trained on spiral drawings made by healthy people and people suffering from Parkinson's Disease.
 
